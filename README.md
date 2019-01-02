@@ -16,7 +16,7 @@ Example:
 'spotify-this-song'
 The 'spotify-this-song' command uses the Spotify API to retrieve data about the song entered in the search parameter.
 
-example: 
+Example: 
 
 
 
@@ -29,6 +29,8 @@ Example:
 
 'do-what-it-says'
 The 'do-what-it-says' command reads the random.txt file and executes the parameters inside of it. By default it is set to 'spotify-this-song, I Want It That Way', but can be updated at another time. 
+
+Example:
 
 
 
