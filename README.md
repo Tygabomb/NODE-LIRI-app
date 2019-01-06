@@ -1,12 +1,12 @@
 # NODE-LIRI-app
 
-Liri -- _Language_ Interpretation and Recognition Interface
+* Liri -- _Language_ Interpretation and Recognition Interface
 
 The user must enter 'node liri.js' into the command line followed by a command and then a search parameter.
 
 There are four possible Commands: 'concert-this', 'spotify-this-song', 'movie-this', or 'do-what-it-says'
 
-'concert-this'
+'concert-this' :musical_keyboard:
 The 'concert-this' command uses the bands in town API to retrive all upcoming concerts for an artist that is searched. Each venue, location and date is provided for all results. Moment.js is used to format the date from the Bandsintown API.
 
 Example: 
