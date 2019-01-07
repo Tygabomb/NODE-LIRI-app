@@ -8,7 +8,7 @@ var keys = require('./keys.js');
 var request = require('request');
 var Spotify = require('node-spotify-api');
 
-// Varables 
+// Varables and CMDs fro LIRI
 var liriCommand = process.argv[2];
 var input = process.argv[3]
 
@@ -29,7 +29,10 @@ function commands(liriCommand, input) {
 
         //If no command is entered, this is the default message to user
         default:
-            console.log("No valid argument has been provided, please enter one of the following commands: 'spotify-this-song', 'movie-this', 'do-what-it-says' followed by parameter." .underlined.red
+            console.log("\n" + "type any CMD after node liri.js:" + "\n" +
+            'spotify-this-song ' + "\n" + 
+            'movie-this ' + "\n" +
+            'do-what-it-says ' + "\n"
         );
     }
 }
@@ -42,9 +45,9 @@ function commands(liriCommand, input) {
 function getSong(songName) {
     var spotify = new Spotify(keys.spotify);
 
-    //If no song is provided, use "The Sign" 
+    //If no song is provided, use "I Want it That Way" 
     if (!songName) {
-        songName = "NODE ";
+        songName = "I Want it That Way";
     };
 
     console.log(songName);
@@ -108,7 +111,7 @@ function getMovie(movieName) {
             fs.appendFile('log.txt', movieResults, function (err) {
                 if (err) throw err;
             });
-            console.log("Saved!" .green);
+            console.log("Saved!");
             logResults(response);
         }
         else {
@@ -129,13 +132,13 @@ function getRandom() {
             console.log(data);
 
             //creates a variable for data in random.txt
-            var randomData = data.split(",");
-            //passes data into getSong function
-            commands(randomData[0], randomData[1]);
+            // var randomData = data.split(",");
+
         }
-        console.log("test" + randomData[0] + randomData[1]);
-    } .green);
+});
+
 };
+
 
 
 //Function to log results from the other functions
