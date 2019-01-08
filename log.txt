@@ -188,4 +188,58 @@ Preview Link: null
 Song name: Free Bird
 Album Name: Pronounced' Leh-'Nerd 'Skin-'Nerd
 Preview Link: null
+[object Object]Artist: DJ Kool
+Song name: Let Me Clear My Throat - Old School Reunion Remix '96
+Album Name: Let Me Clear My Throat
+Preview Link: null
+[object Object]Artist: DJ Kool
+Song name: Let Me Clear My Throat - Old School Reunion Remix '96
+Album Name: Let Me Clear My Throat
+Preview Link: null
+[object Object]Artist: DJ Kool
+Song name: Let Me Clear My Throat - Old School Reunion Remix '96
+Album Name: Let Me Clear My Throat
+Preview Link: null
+[object Object]Artist: Lynyrd Skynyrd
+Song name: Free Bird
+Album Name: Pronounced' Leh-'Nerd 'Skin-'Nerd
+Preview Link: null
+[object Object]------------------------------ begin ------------------------------
+Title: The Hunt for Red October
+Year: 1990
+Imdb Rating: 7.6
+Rotten Tomatoes Rating: N/A
+Country: USA
+Language: English, Russian
+Plot: In November 1984, the Soviet Union's best submarine captain in their newest sub violates orders and heads for the U.S. Is he trying to defect or to start a war?
+Actors: Sean Connery, Alec Baldwin, Scott Glenn, Sam Neill
+------------------------------ end ------------------------------
+[object Object]Artist: Lynyrd Skynyrd
+Song name: Free Bird
+Album Name: Pronounced' Leh-'Nerd 'Skin-'Nerd
+Preview Link: null
+[object Object]------------------------------ begin ------------------------------
+Title: The Hunt for Red October
+Year: 1990
+Imdb Rating: 7.6
+Rotten Tomatoes Rating: N/A
+Country: USA
+Language: English, Russian
+Plot: In November 1984, the Soviet Union's best submarine captain in their newest sub violates orders and heads for the U.S. Is he trying to defect or to start a war?
+Actors: Sean Connery, Alec Baldwin, Scott Glenn, Sam Neill
+------------------------------ end ------------------------------
+[object Object]Artist: Lynyrd Skynyrd
+Song name: Free Bird
+Album Name: Pronounced' Leh-'Nerd 'Skin-'Nerd
+Preview Link: null
+[object Object]------------------------------ begin ------------------------------
+Title: The Hunt for Red October
+Year: 1990
+Imdb Rating: 7.6
+Rotten Tomatoes Rating: N/A
+Country: USA
+Language: English, Russian
+Plot: In November 1984, the Soviet Union's best submarine captain in their newest sub violates orders and heads for the U.S. Is he trying to defect or to start a war?
+Actors: Sean Connery, Alec Baldwin, Scott Glenn, Sam Neill
+------------------------------ end ------------------------------
 [object Object]

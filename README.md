@@ -33,4 +33,9 @@ Example:
 
 All results are returned in the command line, but also into a separate text file named 'log.txt' as well.
 
+check out this link for a visual display of the functioning app :octocat:
+https://drive.google.com/file/d/1mIbRO7rFbPV-mcN3Erqo_MY4iZi2TF_1/view
+
+**Note** you may have to download the video to view the app :grimacing:
+
 Technologies used: Javascript, Node.js, Moment.js, Spotify API, OMDb API, NPM colors, DotEnv
