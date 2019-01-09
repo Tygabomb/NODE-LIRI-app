@@ -242,4 +242,38 @@ Language: English, Russian
 Plot: In November 1984, the Soviet Union's best submarine captain in their newest sub violates orders and heads for the U.S. Is he trying to defect or to start a war?
 Actors: Sean Connery, Alec Baldwin, Scott Glenn, Sam Neill
 ------------------------------ end ------------------------------
+[object Object]Artist: Lynyrd Skynyrd
+Song name: Free Bird
+Album Name: Pronounced' Leh-'Nerd 'Skin-'Nerd
+Preview Link: null
+[object Object]------------------------------ begin ------------------------------
+Title: The Hunt for Red October
+Year: 1990
+Imdb Rating: 7.6
+Rotten Tomatoes Rating: N/A
+Country: USA
+Language: English, Russian
+Plot: In November 1984, the Soviet Union's best submarine captain in their newest sub violates orders and heads for the U.S. Is he trying to defect or to start a war?
+Actors: Sean Connery, Alec Baldwin, Scott Glenn, Sam Neill
+------------------------------ end ------------------------------
+[object Object]Artist: Keane
+Song name: Somewhere Only We Know
+Album Name: Hopes And Fears
+Preview Link: null
+[object Object]Artist: Boys Night Out
+Song name: Medicating
+Album Name: Trainwreck
+Preview Link: https://p.scdn.co/mp3-preview/7841258a4f98f796bb97878efce53082f5a0777d?cid=d6ff7d4180214bdf8bc8d07aafe3cf0f
+[object Object]Artist: The Fall of Troy
+Song name: Act One, Scene One
+Album Name: Doppelganger
+Preview Link: https://p.scdn.co/mp3-preview/8c1aeb6a2b40735f0167b06bd5a634f86e02779a?cid=d6ff7d4180214bdf8bc8d07aafe3cf0f
+[object Object]Artist: The Fall of Troy
+Song name: Act One, Scene One
+Album Name: Doppelganger
+Preview Link: https://p.scdn.co/mp3-preview/8c1aeb6a2b40735f0167b06bd5a634f86e02779a?cid=d6ff7d4180214bdf8bc8d07aafe3cf0f
+[object Object]Artist: Killswitch Engage
+Song name: My Curse
+Album Name: As Daylight Dies (Special Edition)
+Preview Link: https://p.scdn.co/mp3-preview/591da0da6fe74da8c2b774dd2670e94b1361d5da?cid=d6ff7d4180214bdf8bc8d07aafe3cf0f
 [object Object]
