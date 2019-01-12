@@ -21,6 +21,7 @@ The 'movie-this' command uses the OMDb API to retreive data about the movie ente
 Example:
 
 ![image](https://user-images.githubusercontent.com/42306913/50749324-6e823000-11fb-11e9-8fd1-a6c8467f0ec7.png)
+![](movie-this ex.gif)
 
 
 **do-what-it-says** :+1: :smile: :yum: :laughing:
